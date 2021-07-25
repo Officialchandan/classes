@@ -11,4 +11,5 @@ void main() {
     }),
   );
 }
-//*video 7 comlited  */
+
+//* This is my app and my logic 
